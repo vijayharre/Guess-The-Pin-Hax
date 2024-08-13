@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/vijayharre/Guess-The-Pin-Hax/main/githubmedia/screenshot.PNG" alt="project-screenshot" width="2560" height="1440/">
+<img src="https://raw.githubusercontent.com/vijayharre/Guess-The-Pin-Hax/main/githubmedia/screenshot.PNG" alt="project-screenshot">
 
   
   
